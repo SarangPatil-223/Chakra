@@ -1,0 +1,16 @@
+streamlit>=1.32.0
+firecrawl-py>=0.0.16
+google-generativeai>=0.5.0
+chromadb>=0.4.24
+sentence-transformers>=2.7.0
+langgraph>=0.1.0
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+openai-whisper>=20231117
+sounddevice>=0.4.6
+scipy>=1.11.0
+numpy>=1.24.0
+pydeck>=0.8.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
